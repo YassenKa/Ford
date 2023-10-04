@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("fonts/antenna-cond-light-771cddfd050348ce52ab05ba12d86530776361e660967df14356a5bd41b00636.woff");
+
+
+/* @font-face {
+    font-family: "FordFont";
+    src: url("./fonts/ford-antenna-cond-regular-52e873e1cda1a2ff677ce97e38481f292eac4c01b4f0684aca818e36e0c6047e.woff");
+  } */
+  @font-face {
+    font-family: "FordLight";
+    src: url("./fonts/antenna-cond-light-771cddfd050348ce52ab05ba12d86530776361e660967df14356a5bd41b00636.woff");
+  }
